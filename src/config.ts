@@ -11,7 +11,7 @@ export const siteConfig = {
   },
   aboutMe:
     "As a Computer Systems Engineering major, I have a deep passion for embedded software, firmware, and all things microcontroller related. Integrating software and hardware to create projects that make life easier and more efficient is what drives my work.",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+  skills: ["C/C++", "Python", "HTML", "CSS", "Javascript", "FreeRTOS","Docker","SQL"],
   projects: [
     {
       name: "OLED Weather Display",
