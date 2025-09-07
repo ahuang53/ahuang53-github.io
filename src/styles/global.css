@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'IBM Plex Mono', monospace;
+  background-color: #2e2633;
+}
+
+.onyx-bg{
+  background-color: #2e2633; 
+}
+
+
