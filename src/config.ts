@@ -41,8 +41,8 @@ export const siteConfig = {
       title: " Full Stack Development Intern",
       dateRange: "May 2025 - August 2025",
       bullets: [
-        "Contributed to feature development and bug fixes for an internal project management and time-tracking bot used by the company team on Discord.",
-        "Collaborated on a shared GitHub codebase, creating pull requests, participating in code reviews, and ensuring code quality through CI/CD pipelines.",
+        "Implemented bug fixes and feature enhancements for an internal project management and time-tracking bot used by the company team on Discord",
+        "Streamlined development on a shared GitHub codebase, reviewing and merging pull requests while enforcing CI/CD standards to ensure consistent, high-quality code.",
         "Applied containerization and database practices using Docker and PostgreSQL to support feature development, testing, and debugging in a live team codebase.",
       ],
     },
@@ -64,7 +64,7 @@ export const siteConfig = {
       title: "Mercer XLab Staff",
       dateRange: "May 2024 – December 2024",
       bullets: [
-        "Managed lab equipment inventory, overseeing equipment loans and ensuring timely returns to minimize disruptions.",
+        "Maintained and organized lab electronics inventory, coordinating equipment loans and returns for student projects.",
         "Facilitated a microcontroller workshop for engineering students, expanding their knowledge of embedded systems.",
         "Designed a Notion-based learning module on microcontrollers for students with limited C/C++ and circuit skills.",
       ],
