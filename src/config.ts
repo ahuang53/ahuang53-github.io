@@ -14,6 +14,13 @@ export const siteConfig = {
   skills: ["C/C++", "Python", "HTML", "CSS", "Javascript", "FreeRTOS","Docker","SQL"],
   projects: [
     {
+      name: "Telephone Drawing Game",
+      description:
+        "Two-player touchscreen drawing game on the STM32F769I Discovery board demonstrating UART, DMA, and LCD BSP integration.",
+      link: "",
+      skills: ["Bare-Metal", "C", "UART", "DMA","STM32"],
+    },
+    {
       name: "OLED Weather Display",
       description:
         "WiFi enabled weather monitor built with FreeRTOS to demonstrate a basic understanding of Real Time Operating Systems.",
